@@ -1,0 +1,15 @@
+{
+    "name": "filippofinke/diffie-hellman",
+    "description": "A simple php diffie hellman implementation",
+    "authors": [
+        {
+            "name": "Filippo Finke",
+            "email": "filippo.finke@samtrevano.ch"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FilippoFinke\\": "src/"
+        }
+    }
+}
